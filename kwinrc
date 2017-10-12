@@ -1,0 +1,5 @@
+[Compositing]
+OpenGLIsUnsafe=false
+
+[Effect-Zoom]
+InitialZoom=1

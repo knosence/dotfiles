@@ -1,0 +1,10 @@
+[Devices][/org/freedesktop/UDisks2/block_devices/sda3]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=primary
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sr0]
+Icon=media-optical-data
+LastNameSeen=openSUSE-Leap-42.3-DVD-x86_64033
+LastSeenMounted=false

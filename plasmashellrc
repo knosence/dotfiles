@@ -1,0 +1,20 @@
+[PlasmaViews][Panel 2][Horizontal1280]
+thickness=30
+
+[PlasmaViews][Panel 2][Horizontal1376]
+thickness=36
+
+[PlasmaViews][Panel 2][Horizontal1920]
+thickness=30
+
+[PlasmaViews][Panel 2][Horizontal2560]
+thickness=30
+
+[PlasmaViews][Panel 2][Horizontal848]
+thickness=30
+
+[ScreenConnectors]
+0=VGA-1
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js
